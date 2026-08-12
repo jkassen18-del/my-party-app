@@ -1,6 +1,7 @@
 {
   "name": "party-game-app",
   "version": "1.0.0",
+  "private": true,
   "description": "Multiplayer party game platform",
   "main": "server.js",
   "scripts": {
